@@ -42,27 +42,27 @@
         <item name="colorOnSurface">@color/black_900</item>
         <item name="colorOnError">@color/white_50</item>
         <!--Material type attributes-->
-        <item name="textAppearanceHeadline1">@style/TextAppearance.MyTheme.Headline1</item>
-        <item name="textAppearanceHeadline2">@style/TextAppearance.MyTheme.Headline2</item>
-        <item name="textAppearanceHeadline3">@style/TextAppearance.MyTheme.Headline3</item>
-        <item name="textAppearanceHeadline4">@style/TextAppearance.MyTheme.Headline4</item>
-        <item name="textAppearanceHeadline5">@style/TextAppearance.MyTheme.Headline5</item>
-        <item name="textAppearanceHeadline6">@style/TextAppearance.MyTheme.Headline6</item>
-        <item name="textAppearanceSubtitle1">@style/TextAppearance.MyTheme.Subtitle1</item>
-        <item name="textAppearanceSubtitle2">@style/TextAppearance.MyTheme.Subtitle2</item>
-        <item name="textAppearanceBody1">@style/TextAppearance.MyTheme.Body1</item>
-        <item name="textAppearanceBody2">@style/TextAppearance.MyTheme.Body2</item>
-        <item name="textAppearanceButton">@style/TextAppearance.MyTheme.Button</item>
-        <item name="textAppearanceCaption">@style/TextAppearance.MyTheme.Caption</item>
-        <item name="textAppearanceOverline">@style/TextAppearance.MyTheme.Overline</item>
+        <item name="textAppearanceHeadline1">@style/TextAppearance.CalaveritaTechExercise.Headline1</item>
+        <item name="textAppearanceHeadline2">@style/TextAppearance.CalaveritaTechExercise.Headline2</item>
+        <item name="textAppearanceHeadline3">@style/TextAppearance.CalaveritaTechExercise.Headline3</item>
+        <item name="textAppearanceHeadline4">@style/TextAppearance.CalaveritaTechExercise.Headline4</item>
+        <item name="textAppearanceHeadline5">@style/TextAppearance.CalaveritaTechExercise.Headline5</item>
+        <item name="textAppearanceHeadline6">@style/TextAppearance.CalaveritaTechExercise.Headline6</item>
+        <item name="textAppearanceSubtitle1">@style/TextAppearance.CalaveritaTechExercise.Subtitle1</item>
+        <item name="textAppearanceSubtitle2">@style/TextAppearance.CalaveritaTechExercise.Subtitle2</item>
+        <item name="textAppearanceBody1">@style/TextAppearance.CalaveritaTechExercise.Body1</item>
+        <item name="textAppearanceBody2">@style/TextAppearance.CalaveritaTechExercise.Body2</item>
+        <item name="textAppearanceButton">@style/TextAppearance.CalaveritaTechExercise.Button</item>
+        <item name="textAppearanceCaption">@style/TextAppearance.CalaveritaTechExercise.Caption</item>
+        <item name="textAppearanceOverline">@style/TextAppearance.CalaveritaTechExercise.Overline</item>
         <!--Material shape attributes-->
-        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.MyTheme.SmallComponent</item>
-        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.MyTheme.MediumComponent</item>
-        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.MyTheme.LargeComponent</item>
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.CalaveritaTechExercise.SmallComponent</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.CalaveritaTechExercise.MediumComponent</item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.CalaveritaTechExercise.LargeComponent</item>
         <!--Component styles-->
         <item name="materialAlertDialogTheme">@style/ThemeOverlay.MaterialComponents.Dialog.Alert</item>
-        <item name="bottomSheetDialogTheme">@style/ThemeOverlay.MyTheme.BottomSheetDialog</item>
-        <item name="navigationViewStyle">@style/Widget.MyTheme.NavigationView</item>
+        <item name="bottomSheetDialogTheme">@style/ThemeOverlay.CalaveritaTechExercise.BottomSheetDialog</item>
+        <item name="navigationViewStyle">@style/Widget.CalaveritaTechExercise.NavigationView</item>
         <item name="toolbarStyle">@style/Widget.MaterialComponents.Toolbar.PrimarySurface</item>
     </style>
     <style name="Base.Theme.MaterialThemeBuilder" parent="Theme.MaterialComponents.DayNight.NoActionBar">

@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Calaverita.Tech Exercise</string>
+    <string name="app_name">Calaverita.Tech</string>
+    <string name="prices">Prices</string>
+    <string name="failed_to_connect">Failed to connect</string>
+    <string name="generic_error">An error has occurred</string>
+    <string name="retry">Retry</string>
+    <string name="fetch_data_msg">Fetching data, this may take a while</string>
+    <string name="product_details_empty_msg">There are not product details</string>
 </resources>

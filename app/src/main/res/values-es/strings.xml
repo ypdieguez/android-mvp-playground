@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calaverita.Tech</string>
+    <string name="prices">Precios</string>
+    <string name="failed_to_connect">No se pudo conectar</string>
+    <string name="generic_error">Se ha producido un error</string>
+    <string name="retry">Reintentar</string>
+    <string name="fetch_data_msg">Obteniendo datos, esto puede llevar un tiempo</string>
+    <string name="product_details_empty_msg">No hay detalles del producto</string>
+</resources>
